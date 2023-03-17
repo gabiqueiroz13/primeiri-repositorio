@@ -1,0 +1,2 @@
+# primeiri-repositorio
+visualstudiocode
